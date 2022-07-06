@@ -6,20 +6,9 @@ namespace tres
     {
         static void Main(string[] args)
         {
-            Media();
-        }
-
-        static void Media()
-        {
-            double idadeGabriel = 36;
-            double idadeAdryelle = 33;
-            double idadeAdryan = 11;
-
-            double resultado = (idadeGabriel + idadeAdryelle + idadeAdryan)/3;
-
-            Console.Clear();
-            Console.WriteLine(Math.Round(resultado,2));
-            Console.ReadKey();
+            double pi = 3.14;
+            int piQuebrado = (int)pi;
+            Console.WriteLine("piQuebrado = " + piQuebrado);
         }
     }
 }
