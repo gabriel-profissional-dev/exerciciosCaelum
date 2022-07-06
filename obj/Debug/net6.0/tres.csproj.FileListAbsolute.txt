@@ -1,0 +1,15 @@
+C:\exercicios\tres\bin\Debug\net6.0\tres.exe
+C:\exercicios\tres\bin\Debug\net6.0\tres.deps.json
+C:\exercicios\tres\bin\Debug\net6.0\tres.runtimeconfig.json
+C:\exercicios\tres\bin\Debug\net6.0\tres.dll
+C:\exercicios\tres\bin\Debug\net6.0\tres.pdb
+C:\exercicios\tres\obj\Debug\net6.0\tres.csproj.AssemblyReference.cache
+C:\exercicios\tres\obj\Debug\net6.0\tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios\tres\obj\Debug\net6.0\tres.AssemblyInfoInputs.cache
+C:\exercicios\tres\obj\Debug\net6.0\tres.AssemblyInfo.cs
+C:\exercicios\tres\obj\Debug\net6.0\tres.csproj.CoreCompileInputs.cache
+C:\exercicios\tres\obj\Debug\net6.0\tres.dll
+C:\exercicios\tres\obj\Debug\net6.0\refint\tres.dll
+C:\exercicios\tres\obj\Debug\net6.0\tres.pdb
+C:\exercicios\tres\obj\Debug\net6.0\tres.genruntimeconfig.cache
+C:\exercicios\tres\obj\Debug\net6.0\ref\tres.dll
