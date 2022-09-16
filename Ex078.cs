@@ -1,10 +1,13 @@
+//Faça um programa que leia 5 valores numéricos e guarde-os em uma lista.
+//No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista. 
+/*
 using System;
 
 namespace inicio
 {
-    class Program
+    public static class Exercicio078
     {
-        static void Main(string[] args)
+        public static void Lista078()
         {
             Console.Clear();
 
@@ -15,10 +18,10 @@ namespace inicio
                 int valor = Convert.ToInt32(Console.ReadLine());
 
                 lista.Add(valor);
-                Console.WriteLine(lista{valor});
             }
 
             Console.WriteLine($"Lista criada: {lista}");
         }
     }
 }
+*/
