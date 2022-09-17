@@ -1,0 +1,15 @@
+C:\exercicios\desafios\bin\Debug\net6.0\desafios.exe
+C:\exercicios\desafios\bin\Debug\net6.0\desafios.deps.json
+C:\exercicios\desafios\bin\Debug\net6.0\desafios.runtimeconfig.json
+C:\exercicios\desafios\bin\Debug\net6.0\desafios.dll
+C:\exercicios\desafios\bin\Debug\net6.0\desafios.pdb
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.csproj.AssemblyReference.cache
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.AssemblyInfoInputs.cache
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.AssemblyInfo.cs
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.csproj.CoreCompileInputs.cache
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.dll
+C:\exercicios\desafios\obj\Debug\net6.0\refint\desafios.dll
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.pdb
+C:\exercicios\desafios\obj\Debug\net6.0\desafios.genruntimeconfig.cache
+C:\exercicios\desafios\obj\Debug\net6.0\ref\desafios.dll
