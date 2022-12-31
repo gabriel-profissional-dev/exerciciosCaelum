@@ -27,6 +27,15 @@ namespace desafios
             Console.WriteLine("008 - Exercício008");
             Console.WriteLine("009 - Exercício009");
             Console.WriteLine("010 - Exercício010");
+            Console.WriteLine("011 - Exercício011");
+            Console.WriteLine("012 - Exercício012");
+            Console.WriteLine("013 - Exercício013");
+            Console.WriteLine("014 - Exercício014");
+            Console.WriteLine("015 - Exercício015");
+            Console.WriteLine("016 - Exercício016");
+            Console.WriteLine("017 - Exercício017");
+            Console.WriteLine("018 - Exercício018");
+            Console.WriteLine("019 - Exercício019");
             
             Console.WriteLine(" ");
             Console.Write("Escolha: ");
@@ -45,6 +54,16 @@ namespace desafios
                 case 008: Exercicio008.ConversorDeMedidas(); break;
                 case 009: Exercicio009.Tabuada(); break;
                 case 010: Exercicio010.ConversorEmDolar(); break;
+                case 011: Exercicio011.PintandoUmaParede(); break;
+                case 012: Exercicio012.CalculandoDescontos(); break;
+                case 013: Exercicio013.ReajusteSalarial(); break;
+                case 014: Exercicio014.ConversorDeTemperaturas(); break;
+                case 015: Exercicio015.AluguelDeCarros(); break;
+                case 016: Exercicio016.QuebrandoUmNumero(); break;
+                case 017: Exercicio017.CatetosEHipotenusa(); break;
+                case 018: Exercicio018.SenoCossenoTangente(); break;
+                case 019: Exercicio019.SorteandoUmItemNaLista(); break;
+                case 020: Exercicio020.SorteandoUmaOrdemNaLista();break;
 
                 default: Menu.Opcao(); break;
             }
